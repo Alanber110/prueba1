@@ -1,0 +1,16 @@
+p{
+	color:#005500;
+	background-color:red;
+	font-size:18 pt;
+	font-family:verdana;
+	font-style:italic;
+	font-weight:100;
+	text-decoration:overline;
+}
+h1{
+	color:green;
+	font-size:30pt;
+	text-transform:uppercase;
+	letter-spacing:20pt;
+}
+
